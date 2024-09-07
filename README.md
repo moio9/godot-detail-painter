@@ -1,5 +1,6 @@
 # godot-detail-painter
-Somthing between Splatmap and Decals
+Somthing between Splatmaps and Decals.
+Currently you can only import .mesh files.
 
 ## **Please help to keep this project alive:**
 
